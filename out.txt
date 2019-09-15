@@ -1,0 +1,862 @@
+
+Char read: # Current state: 0, Next state: 4
+
+Char read: i Current state: 4, Next state: 4
+
+Char read: n Current state: 4, Next state: 4
+
+Char read: c Current state: 4, Next state: 4
+
+Char read: l Current state: 4, Next state: 4
+
+Char read: u Current state: 4, Next state: 4
+
+Char read: d Current state: 4, Next state: 4
+
+Char read: e Current state: 4, Next state: 4
+
+Char read: < Current state: 4, Next state: 4
+
+Char read: s Current state: 4, Next state: 4
+
+Char read: t Current state: 4, Next state: 4
+
+Char read: d Current state: 4, Next state: 4
+
+Char read: i Current state: 4, Next state: 4
+
+Char read: o Current state: 4, Next state: 4
+
+Char read: . Current state: 4, Next state: 4
+
+Char read: h Current state: 4, Next state: 4
+
+Char read: > Current state: 4, Next state: 4
+
+Char read:  Current state: 4, Next state: 4
+
+Char read: 
+ Current state: 4, Next state: 0
+
+Char read: # Current state: 0, Next state: 4
+
+Char read: i Current state: 4, Next state: 4
+
+Char read: n Current state: 4, Next state: 4
+
+Char read: c Current state: 4, Next state: 4
+
+Char read: l Current state: 4, Next state: 4
+
+Char read: u Current state: 4, Next state: 4
+
+Char read: d Current state: 4, Next state: 4
+
+Char read: e Current state: 4, Next state: 4
+
+Char read: < Current state: 4, Next state: 4
+
+Char read: s Current state: 4, Next state: 4
+
+Char read: t Current state: 4, Next state: 4
+
+Char read: d Current state: 4, Next state: 4
+
+Char read: l Current state: 4, Next state: 4
+
+Char read: i Current state: 4, Next state: 4
+
+Char read: b Current state: 4, Next state: 4
+
+Char read: . Current state: 4, Next state: 4
+
+Char read: h Current state: 4, Next state: 4
+
+Char read: > Current state: 4, Next state: 4
+
+Char read:  Current state: 4, Next state: 4
+
+Char read: 
+ Current state: 4, Next state: 0
+
+Char read:  Current state: 0, Next state: 0
+
+Char read: 
+ Current state: 0, Next state: 0
+
+Char read: i Current state: 0, Next state: 1
+
+Char read: n Current state: 1, Next state: 1
+
+Char read: t Current state: 1, Next state: 1
+
+Char read:   Current state: 1, Next state: 0
+
+Char read: a Current state: 0, Next state: 1
+
+Char read: d Current state: 1, Next state: 1
+
+Char read: d Current state: 1, Next state: 1
+
+Char read: ( Current state: 1, Next state: 0
+
+Char read: i Current state: 0, Next state: 1
+
+Char read: n Current state: 1, Next state: 1
+
+Char read: t Current state: 1, Next state: 1
+
+Char read:   Current state: 1, Next state: 0
+
+Char read: a Current state: 0, Next state: 1
+
+Char read: , Current state: 1, Next state: 0
+
+Char read:   Current state: 0, Next state: 0
+
+Char read: i Current state: 0, Next state: 1
+
+Char read: n Current state: 1, Next state: 1
+
+Char read: t Current state: 1, Next state: 1
+
+Char read:   Current state: 1, Next state: 0
+
+Char read: b Current state: 0, Next state: 1
+
+Char read: ) Current state: 1, Next state: 0
+
+Char read: ; Current state: 0, Next state: 0
+
+Char read:  Current state: 0, Next state: 0
+
+Char read: 
+ Current state: 0, Next state: 0
+
+Char read:  Current state: 0, Next state: 0
+
+Char read: 
+ Current state: 0, Next state: 0
+
+Char read: i Current state: 0, Next state: 1
+
+Char read: n Current state: 1, Next state: 1
+
+Char read: t Current state: 1, Next state: 1
+
+Char read:   Current state: 1, Next state: 0
+
+Char read: m Current state: 0, Next state: 1
+
+Char read: a Current state: 1, Next state: 1
+
+Char read: i Current state: 1, Next state: 1
+
+Char read: n Current state: 1, Next state: 1
+
+Char read:   Current state: 1, Next state: 0
+
+Char read: ( Current state: 0, Next state: 0
+
+Char read: v Current state: 0, Next state: 1
+
+Char read: o Current state: 1, Next state: 1
+
+Char read: i Current state: 1, Next state: 1
+
+Char read: d Current state: 1, Next state: 1
+
+Char read: ) Current state: 1, Next state: 0
+
+Char read:   Current state: 0, Next state: 0
+
+Char read: { Current state: 0, Next state: 0
+
+Char read:  Current state: 0, Next state: 0
+
+Char read: 
+ Current state: 0, Next state: 0
+
+Char read:  Current state: 0, Next state: 0
+
+Char read: 
+ Current state: 0, Next state: 0
+
+Char read:   Current state: 0, Next state: 0
+
+Char read:   Current state: 0, Next state: 0
+
+Char read:   Current state: 0, Next state: 0
+
+Char read:   Current state: 0, Next state: 0
+
+Char read: / Current state: 0, Next state: 5
+
+Char read: * Current state: 5, Next state: 6
+
+Char read:  Current state: 6, Next state: 6
+
+Char read: 
+ Current state: 6, Next state: 6
+
+Char read:  Current state: 6, Next state: 6
+
+Char read: 
+ Current state: 6, Next state: 6
+
+Char read:   Current state: 6, Next state: 6
+
+Char read:   Current state: 6, Next state: 6
+
+Char read:   Current state: 6, Next state: 6
+
+Char read:   Current state: 6, Next state: 6
+
+Char read: T Current state: 6, Next state: 6
+
+Char read: h Current state: 6, Next state: 6
+
+Char read: i Current state: 6, Next state: 6
+
+Char read: s Current state: 6, Next state: 6
+
+Char read:   Current state: 6, Next state: 6
+
+Char read: i Current state: 6, Next state: 6
+
+Char read: s Current state: 6, Next state: 6
+
+Char read:   Current state: 6, Next state: 6
+
+Char read: a Current state: 6, Next state: 6
+
+Char read:   Current state: 6, Next state: 6
+
+Char read: c Current state: 6, Next state: 6
+
+Char read: o Current state: 6, Next state: 6
+
+Char read: m Current state: 6, Next state: 6
+
+Char read: m Current state: 6, Next state: 6
+
+Char read: e Current state: 6, Next state: 6
+
+Char read: n Current state: 6, Next state: 6
+
+Char read: t Current state: 6, Next state: 6
+
+Char read:   Current state: 6, Next state: 6
+
+Char read: t Current state: 6, Next state: 6
+
+Char read: o Current state: 6, Next state: 6
+
+Char read:   Current state: 6, Next state: 6
+
+Char read: i Current state: 6, Next state: 6
+
+Char read: g Current state: 6, Next state: 6
+
+Char read: n Current state: 6, Next state: 6
+
+Char read: o Current state: 6, Next state: 6
+
+Char read: r Current state: 6, Next state: 6
+
+Char read: e Current state: 6, Next state: 6
+
+Char read:  Current state: 6, Next state: 6
+
+Char read: 
+ Current state: 6, Next state: 6
+
+Char read:  Current state: 6, Next state: 6
+
+Char read: 
+ Current state: 6, Next state: 6
+
+Char read:   Current state: 6, Next state: 6
+
+Char read:   Current state: 6, Next state: 6
+
+Char read:   Current state: 6, Next state: 6
+
+Char read:   Current state: 6, Next state: 6
+
+Char read: * Current state: 6, Next state: 7
+
+Char read: / Current state: 7, Next state: 0
+
+Char read:  Current state: 0, Next state: 0
+
+Char read: 
+ Current state: 0, Next state: 0
+
+Char read:  Current state: 0, Next state: 0
+
+Char read: 
+ Current state: 0, Next state: 0
+
+Char read:   Current state: 0, Next state: 0
+
+Char read:   Current state: 0, Next state: 0
+
+Char read:   Current state: 0, Next state: 0
+
+Char read:   Current state: 0, Next state: 0
+
+Char read: c Current state: 0, Next state: 1
+
+Char read: h Current state: 1, Next state: 1
+
+Char read: a Current state: 1, Next state: 1
+
+Char read: r Current state: 1, Next state: 1
+
+Char read:   Current state: 1, Next state: 0
+
+Char read: s Current state: 0, Next state: 1
+
+Char read: t Current state: 1, Next state: 1
+
+Char read: r Current state: 1, Next state: 1
+
+Char read: 1 Current state: 1, Next state: 1
+
+Char read: [ Current state: 1, Next state: 0
+
+Char read: ] Current state: 0, Next state: 0
+
+Char read:   Current state: 0, Next state: 0
+
+Char read: = Current state: 0, Next state: 0
+
+Char read:   Current state: 0, Next state: 0
+
+Char read: " Current state: 0, Next state: 2
+
+Char read: I Current state: 2, Next state: 2
+
+Char read: g Current state: 2, Next state: 2
+
+Char read: n Current state: 2, Next state: 2
+
+Char read: o Current state: 2, Next state: 2
+
+Char read: r Current state: 2, Next state: 2
+
+Char read: e Current state: 2, Next state: 2
+
+Char read:   Current state: 2, Next state: 2
+
+Char read: t Current state: 2, Next state: 2
+
+Char read: h Current state: 2, Next state: 2
+
+Char read: i Current state: 2, Next state: 2
+
+Char read: s Current state: 2, Next state: 2
+
+Char read:   Current state: 2, Next state: 2
+
+Char read: \ Current state: 2, Next state: 8
+
+Char read: " Current state: 8, Next state: 2
+
+Char read: s Current state: 2, Next state: 2
+
+Char read: t Current state: 2, Next state: 2
+
+Char read: r Current state: 2, Next state: 2
+
+Char read: i Current state: 2, Next state: 2
+
+Char read: n Current state: 2, Next state: 2
+
+Char read: g Current state: 2, Next state: 2
+
+Char read: \ Current state: 2, Next state: 8
+
+Char read: " Current state: 8, Next state: 2
+
+Char read:   Current state: 2, Next state: 2
+
+Char read: w Current state: 2, Next state: 2
+
+Char read: i Current state: 2, Next state: 2
+
+Char read: t Current state: 2, Next state: 2
+
+Char read: h Current state: 2, Next state: 2
+
+Char read:   Current state: 2, Next state: 2
+
+Char read: e Current state: 2, Next state: 2
+
+Char read: s Current state: 2, Next state: 2
+
+Char read: c Current state: 2, Next state: 2
+
+Char read: a Current state: 2, Next state: 2
+
+Char read: p Current state: 2, Next state: 2
+
+Char read: e Current state: 2, Next state: 2
+
+Char read:   Current state: 2, Next state: 2
+
+Char read: s Current state: 2, Next state: 2
+
+Char read: e Current state: 2, Next state: 2
+
+Char read: q Current state: 2, Next state: 2
+
+Char read: u Current state: 2, Next state: 2
+
+Char read: e Current state: 2, Next state: 2
+
+Char read: n Current state: 2, Next state: 2
+
+Char read: c Current state: 2, Next state: 2
+
+Char read: e Current state: 2, Next state: 2
+
+Char read: s Current state: 2, Next state: 2
+
+Char read: \ Current state: 2, Next state: 8
+
+Char read: n Current state: 8, Next state: 2
+
+Char read: " Current state: 2, Next state: 0
+
+Char read: ; Current state: 0, Next state: 0
+
+Char read:  Current state: 0, Next state: 0
+
+Char read: 
+ Current state: 0, Next state: 0
+
+Char read:   Current state: 0, Next state: 0
+
+Char read:   Current state: 0, Next state: 0
+
+Char read:   Current state: 0, Next state: 0
+
+Char read:   Current state: 0, Next state: 0
+
+Char read: c Current state: 0, Next state: 1
+
+Char read: h Current state: 1, Next state: 1
+
+Char read: a Current state: 1, Next state: 1
+
+Char read: r Current state: 1, Next state: 1
+
+Char read:   Current state: 1, Next state: 0
+
+Char read: n Current state: 0, Next state: 1
+
+Char read: u Current state: 1, Next state: 1
+
+Char read: l Current state: 1, Next state: 1
+
+Char read: l Current state: 1, Next state: 1
+
+Char read:   Current state: 1, Next state: 0
+
+Char read: = Current state: 0, Next state: 0
+
+Char read:   Current state: 0, Next state: 0
+
+Char read: ' Current state: 0, Next state: 3
+
+Char read: \ Current state: 3, Next state: 9
+
+Char read: 0 Current state: 9, Next state: 3
+
+Char read: ' Current state: 3, Next state: 0
+
+Char read: ; Current state: 0, Next state: 0
+
+Char read:  Current state: 0, Next state: 0
+
+Char read: 
+ Current state: 0, Next state: 0
+
+Char read:  Current state: 0, Next state: 0
+
+Char read: 
+ Current state: 0, Next state: 0
+
+Char read:   Current state: 0, Next state: 0
+
+Char read:   Current state: 0, Next state: 0
+
+Char read:   Current state: 0, Next state: 0
+
+Char read:   Current state: 0, Next state: 0
+
+Char read: i Current state: 0, Next state: 1
+
+Char read: n Current state: 1, Next state: 1
+
+Char read: t Current state: 1, Next state: 1
+
+Char read:   Current state: 1, Next state: 0
+
+Char read: a Current state: 0, Next state: 1
+
+Char read:   Current state: 1, Next state: 0
+
+Char read: = Current state: 0, Next state: 0
+
+Char read:   Current state: 0, Next state: 0
+
+Char read: 0 Current state: 0, Next state: 0
+
+Char read: ; Current state: 0, Next state: 0
+
+Char read:  Current state: 0, Next state: 0
+
+Char read: 
+ Current state: 0, Next state: 0
+
+Char read:   Current state: 0, Next state: 0
+
+Char read:   Current state: 0, Next state: 0
+
+Char read:   Current state: 0, Next state: 0
+
+Char read:   Current state: 0, Next state: 0
+
+Char read: i Current state: 0, Next state: 1
+
+Char read: n Current state: 1, Next state: 1
+
+Char read: t Current state: 1, Next state: 1
+
+Char read:   Current state: 1, Next state: 0
+
+Char read: b Current state: 0, Next state: 1
+
+Char read:   Current state: 1, Next state: 0
+
+Char read: = Current state: 0, Next state: 0
+
+Char read:   Current state: 0, Next state: 0
+
+Char read: 1 Current state: 0, Next state: 0
+
+Char read: ; Current state: 0, Next state: 0
+
+Char read:  Current state: 0, Next state: 0
+
+Char read: 
+ Current state: 0, Next state: 0
+
+Char read:  Current state: 0, Next state: 0
+
+Char read: 
+ Current state: 0, Next state: 0
+
+Char read:   Current state: 0, Next state: 0
+
+Char read:   Current state: 0, Next state: 0
+
+Char read:   Current state: 0, Next state: 0
+
+Char read:   Current state: 0, Next state: 0
+
+Char read: p Current state: 0, Next state: 1
+
+Char read: r Current state: 1, Next state: 1
+
+Char read: i Current state: 1, Next state: 1
+
+Char read: n Current state: 1, Next state: 1
+
+Char read: t Current state: 1, Next state: 1
+
+Char read: f Current state: 1, Next state: 1
+
+Char read: ( Current state: 1, Next state: 0
+
+Char read: " Current state: 0, Next state: 2
+
+Char read: a Current state: 2, Next state: 2
+
+Char read: + Current state: 2, Next state: 2
+
+Char read: b Current state: 2, Next state: 2
+
+Char read:   Current state: 2, Next state: 2
+
+Char read: = Current state: 2, Next state: 2
+
+Char read:   Current state: 2, Next state: 2
+
+Char read: % Current state: 2, Next state: 2
+
+Char read: d Current state: 2, Next state: 2
+
+Char read: \ Current state: 2, Next state: 8
+
+Char read: n Current state: 8, Next state: 2
+
+Char read: " Current state: 2, Next state: 0
+
+Char read: , Current state: 0, Next state: 0
+
+Char read:   Current state: 0, Next state: 0
+
+Char read: a Current state: 0, Next state: 1
+
+Char read: d Current state: 1, Next state: 1
+
+Char read: d Current state: 1, Next state: 1
+
+Char read: ( Current state: 1, Next state: 0
+
+Char read: a Current state: 0, Next state: 1
+
+Char read: , Current state: 1, Next state: 0
+
+Char read:   Current state: 0, Next state: 0
+
+Char read: b Current state: 0, Next state: 1
+
+Char read: ) Current state: 1, Next state: 0
+
+Char read: ) Current state: 0, Next state: 0
+
+Char read: ; Current state: 0, Next state: 0
+
+Char read:  Current state: 0, Next state: 0
+
+Char read: 
+ Current state: 0, Next state: 0
+
+Char read:   Current state: 0, Next state: 0
+
+Char read:   Current state: 0, Next state: 0
+
+Char read:   Current state: 0, Next state: 0
+
+Char read:   Current state: 0, Next state: 0
+
+Char read: r Current state: 0, Next state: 1
+
+Char read: e Current state: 1, Next state: 1
+
+Char read: t Current state: 1, Next state: 1
+
+Char read: u Current state: 1, Next state: 1
+
+Char read: r Current state: 1, Next state: 1
+
+Char read: n Current state: 1, Next state: 1
+
+Char read:   Current state: 1, Next state: 0
+
+Char read: 0 Current state: 0, Next state: 0
+
+Char read: ; Current state: 0, Next state: 0
+
+Char read:  Current state: 0, Next state: 0
+
+Char read: 
+ Current state: 0, Next state: 0
+
+Char read: } Current state: 0, Next state: 0
+
+Char read:  Current state: 0, Next state: 0
+
+Char read: 
+ Current state: 0, Next state: 0
+
+Char read:  Current state: 0, Next state: 0
+
+Char read: 
+ Current state: 0, Next state: 0
+
+Char read:  Current state: 0, Next state: 0
+
+Char read: 
+ Current state: 0, Next state: 0
+
+Char read: i Current state: 0, Next state: 1
+
+Char read: n Current state: 1, Next state: 1
+
+Char read: t Current state: 1, Next state: 1
+
+Char read:   Current state: 1, Next state: 0
+
+Char read: a Current state: 0, Next state: 1
+
+Char read: d Current state: 1, Next state: 1
+
+Char read: d Current state: 1, Next state: 1
+
+Char read: ( Current state: 1, Next state: 0
+
+Char read: i Current state: 0, Next state: 1
+
+Char read: n Current state: 1, Next state: 1
+
+Char read: t Current state: 1, Next state: 1
+
+Char read:   Current state: 1, Next state: 0
+
+Char read: a Current state: 0, Next state: 1
+
+Char read: , Current state: 1, Next state: 0
+
+Char read:   Current state: 0, Next state: 0
+
+Char read: i Current state: 0, Next state: 1
+
+Char read: n Current state: 1, Next state: 1
+
+Char read: t Current state: 1, Next state: 1
+
+Char read:   Current state: 1, Next state: 0
+
+Char read: b Current state: 0, Next state: 1
+
+Char read: ) Current state: 1, Next state: 0
+
+Char read:   Current state: 0, Next state: 0
+
+Char read: { Current state: 0, Next state: 0
+
+Char read:  Current state: 0, Next state: 0
+
+Char read: 
+ Current state: 0, Next state: 0
+
+Char read:   Current state: 0, Next state: 0
+
+Char read:   Current state: 0, Next state: 0
+
+Char read:   Current state: 0, Next state: 0
+
+Char read:   Current state: 0, Next state: 0
+
+Char read: i Current state: 0, Next state: 1
+
+Char read: n Current state: 1, Next state: 1
+
+Char read: t Current state: 1, Next state: 1
+
+Char read:   Current state: 1, Next state: 0
+
+Char read: c Current state: 0, Next state: 1
+
+Char read:   Current state: 1, Next state: 0
+
+Char read: = Current state: 0, Next state: 0
+
+Char read:   Current state: 0, Next state: 0
+
+Char read: a Current state: 0, Next state: 1
+
+Char read:   Current state: 1, Next state: 0
+
+Char read: + Current state: 0, Next state: 0
+
+Char read:   Current state: 0, Next state: 0
+
+Char read: b Current state: 0, Next state: 1
+
+Char read: ; Current state: 1, Next state: 0
+
+Char read:  Current state: 0, Next state: 0
+
+Char read: 
+ Current state: 0, Next state: 0
+
+Char read:   Current state: 0, Next state: 0
+
+Char read:   Current state: 0, Next state: 0
+
+Char read:   Current state: 0, Next state: 0
+
+Char read:   Current state: 0, Next state: 0
+
+Char read: r Current state: 0, Next state: 1
+
+Char read: e Current state: 1, Next state: 1
+
+Char read: t Current state: 1, Next state: 1
+
+Char read: u Current state: 1, Next state: 1
+
+Char read: r Current state: 1, Next state: 1
+
+Char read: n Current state: 1, Next state: 1
+
+Char read:   Current state: 1, Next state: 0
+
+Char read: c Current state: 0, Next state: 1
+
+Char read: ; Current state: 1, Next state: 0
+
+Char read:  Current state: 0, Next state: 0
+
+Char read: 
+ Current state: 0, Next state: 0
+
+Char read: } Current state: 0, Next state: 0
+
+Char read:  Current state: 0, Next state: 0
+
+Char read: 
+ Current state: 0, Next state: 0
+Identifiers/Keywords found:
+	<int>
+	<add>
+	<int>
+	<a>
+	<int>
+	<b>
+	<int>
+	<main>
+	<void>
+	<char>
+	<str1>
+	<char>
+	<null>
+	<int>
+	<a>
+	<int>
+	<b>
+	<printf>
+	<add>
+	<a>
+	<b>
+	<return>
+	<int>
+	<add>
+	<int>
+	<a>
+	<int>
+	<b>
+	<int>
+	<c>
+	<a>
+	<b>
+	<return>
+	<c>
+
+
+Unique Identifiers found:
+	<id, add>
+	<id, a>
+	<id, b>
+	<id, main>
+	<id, str1>
+	<id, null>
+	<id, printf>
+	<id, c>
